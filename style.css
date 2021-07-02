@@ -74,6 +74,20 @@ body{
     border: none;
 }
 
-.footer{
+.bottom-sec{
     padding: 13px;
+}
+
+.footer-text{
+    color: white;
+    text-align: center;
+    padding-top: 0px;
+}
+
+.linkedin{
+    color: white;
+}
+
+.linkedin:hover{
+    color: #3161ff;
 }
